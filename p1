@@ -3,3 +3,14 @@
  
  A framework is A collection of pre-written code, tools, and libraries that provide a structured
  foundation for building web applications. 
+
+// Adding through git
+Types of frame works:
+1. Front End framework
+   -React js
+   -Angular
+   -vue.js
+2. Back end Framework
+  - express js
+  - Django
+  -Ruby on Rails
